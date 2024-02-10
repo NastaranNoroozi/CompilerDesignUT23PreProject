@@ -40,6 +40,13 @@ This ANTLR grammar, called "password", defines rules for validating passwords lo
 
 ## Output/Input
 
+[![mypicforhw4p1.png](https://i.postimg.cc/8zP0ML2Q/mypicforhw4p1.png)](https://postimg.cc/2VMGfLj2)
+
+[![mypicforhw4p2.png](https://i.postimg.cc/59LTV4BG/mypicforhw4p2.png)](https://postimg.cc/s1fwPR09)
+
+[![mypicforhw4p3.png](https://i.postimg.cc/Hkpfzq7N/mypicforhw4p3.png)](https://postimg.cc/BXVYQwp5)
+
+[![mypicforhw4p4.png](https://i.postimg.cc/Prmj2bVC/mypicforhw4p4.png)](https://postimg.cc/CzLXK8g0)
 
 ## Usage
 
