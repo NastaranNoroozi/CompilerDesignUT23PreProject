@@ -44,11 +44,12 @@ This ANTLR grammar, named `main`, defines rules for parsing and recognizing spec
 - `2.12.3` matches a software version.
 - `http://askskdjiodsfj.com` matches a website address.
 
-## Real input/output
+## Real Input/Output
+[![mypicforhw3p3.png](https://i.postimg.cc/TwDtc021/mypicforhw3p3.png)](https://postimg.cc/XGnKjwC6)
 
+[![mypicforhw3p2.png](https://i.postimg.cc/1z6WGM3t/mypicforhw3p2.png)](https://postimg.cc/KKGrFPLS)
 
-
-
+[![mypicforhw3p1.png](https://i.postimg.cc/Kzx5n2Wq/mypicforhw3p1.png)](https://postimg.cc/zL2Wr98K)
 
 
 ## Usage
