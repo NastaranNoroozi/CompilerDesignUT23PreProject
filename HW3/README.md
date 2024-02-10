@@ -1,6 +1,7 @@
 Third Homework
 ***************************
-# ANTLR Grammar: main
+# Text Recognizer
+## ANTLR Grammar: main
 
 This ANTLR grammar, named `main`, defines rules for parsing and recognizing specific patterns such as national numbers, email addresses, postal codes, decimal numbers, software versions, and website addresses.
 
